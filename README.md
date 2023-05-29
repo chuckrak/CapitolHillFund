@@ -1,13 +1,13 @@
 # CapitolHillFund
 
 ## References 
-[Trading in Python](https://medium.com/swlh/coding-your-way-to-wall-street-bf21a500376f)
-[Backtesting](https://medium.com/@mrodz/algo-trading-backtesting-your-algorithm-bd6d7385c89c)
-[More Backtesting](https://medium.com/inside-bux/introduction-to-backtesting-trading-strategies-da152be3e6e0)
-[Politician Trades Site](https://www.capitoltrades.com/trades)
-[Another Politician Trades DB](https://www.smartinsider.com/politicians/)
-[Example Trading Repository](https://github.com/sshh12/Tradinhood)
-[BeautifulSoup Web Scraping](https://pypi.org/project/beautifulsoup4/)
+[Trading in Python](https://medium.com/swlh/coding-your-way-to-wall-street-bf21a500376f)\
+[Backtesting](https://medium.com/@mrodz/algo-trading-backtesting-your-algorithm-bd6d7385c89c)\
+[More Backtesting](https://medium.com/inside-bux/introduction-to-backtesting-trading-strategies-da152be3e6e0)\
+[Politician Trades Site](https://www.capitoltrades.com/trades)\
+[Another Politician Trades DB](https://www.smartinsider.com/politicians/)\
+[Example Trading Repository](https://github.com/sshh12/Tradinhood)\
+[BeautifulSoup Web Scraping](https://pypi.org/project/beautifulsoup4/)\
 
 ## Initial Planning
 Should do backtesting on data to get a good estimate for returns, see if money maybe can be made
